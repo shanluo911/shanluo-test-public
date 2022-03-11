@@ -1,1 +1,0 @@
-:::image type="content" source="images/bad-lint.png" alt-text="Simple alternate text" lightbox="images/bad-lint1.png":::
